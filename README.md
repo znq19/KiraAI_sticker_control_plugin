@@ -1,0 +1,2 @@
+# KiraAI_sticker_control_plugin
+控制AI发送表情的频率和随机位置，并确保表情独立成行
