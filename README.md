@@ -1,5 +1,5 @@
 # KiraAI_sticker_control_plugin/表情包发送频率和随机位置控制
-该插件已整合至KiraAI官方QQ增强插件并得到开发者@xxynet更优秀的代码修复：https://github.com/xxynet/kira-ai-plugin-qq-enhance
+该插件已整合至KiraAI官方QQ增强插件并得到开发者@xxynet更优秀的代码修改：https://github.com/xxynet/kira-ai-plugin-qq-enhance
 
 控制AI发送表情（注：是sticker而非emoji）的频率和随机位置，并确保表情独立成行。
 
