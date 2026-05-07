@@ -4,5 +4,5 @@
     "version": "1.1.0",
     "author": "znq19",
     "description": "控制AI发送表情的频率和随机位置，并确保表情独立成行。",
-    "repo": null
+    "repo": "https://github.com/znq19/KiraAI_sticker_control_plugin"
 }
