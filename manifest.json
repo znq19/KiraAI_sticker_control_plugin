@@ -1,7 +1,7 @@
 {
     "display_name": "Sticker Control",
     "plugin_id": "sticker_control",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author": "znq19",
     "description": "控制AI发送表情的频率和随机位置，并确保表情独立成行。",
     "repo": "https://github.com/znq19/KiraAI_sticker_control_plugin"
