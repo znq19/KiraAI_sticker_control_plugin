@@ -1,7 +1,7 @@
 {
     "sticker_probability": {
         "name": "表情保留概率",
-        "type": "number",
+        "type": "float",
         "default": 0.5,
         "minimum": 0,
         "maximum": 1,
@@ -9,7 +9,7 @@
     },
     "random_position": {
         "name": "随机位置",
-        "type": "boolean",
+        "type": "switch",
         "default": true,
         "hint": "是否将表情随机插入到消息中间（而不是固定在最后）。"
     }
