@@ -1,4 +1,4 @@
-# KiraAI_sticker_control_plugin / 表情包发送频率和随机位置控制 1.2.1
+# KiraAI_sticker_control_plugin / 表情包发送频率和随机位置控制 1.2.2
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/znq19/KiraAI_sticker_control_plugin)
 
